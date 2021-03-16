@@ -16,4 +16,4 @@ My current goal is to learn all I can about Techlonogy and Computer Science :com
 -  :swimmer: Swimming
 -  :video_game: Videogames
 
--  :couple_with_heart: Married to @hcastanha
+-  :couple_with_heart: Married to @HCastanha
