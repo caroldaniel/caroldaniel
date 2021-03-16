@@ -1,8 +1,5 @@
 ### Hello everyone! 👋
 
-<!--
-**caroldaniel/caroldaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Welcome to my profile! :purple_heart:
 
 I'm a curious soul, always looking for new and more exciting adventures! 
@@ -20,6 +17,3 @@ My current goal is to learn all I can about Techlonogy and Computer Science :com
 -  :video_game: Videogames
 
 -  :couple_with_heart: Married to @hcastanha
-
-
--->
