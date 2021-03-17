@@ -38,3 +38,13 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/caroldaniel
 [2]: https://www.linkedin.com/in/carolinadaniel/
+
+## :chart_with_upwards_trend: Stats
+
+<a href="https://github.com/caroldaniel/caroldaniel">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroldaniel&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/caroldaniel/caroldaniel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caroldaniel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carol's GitHub Stats" />
+</a>
+
