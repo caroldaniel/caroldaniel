@@ -41,8 +41,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 #### :chart_with_upwards_trend: Stats
 
-[![caroldaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroldaniel&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/caroldaniel?tab=repositories) 
-[![caroldaniel's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldaniel&layout=compact&hide_border=true&theme=jolly)](https://github.com/caroldaniel?tab=repositories)
+[![caroldaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroldaniel&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=)](https://github.com/caroldaniel?tab=repositories) 
+[![caroldaniel's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldaniel&layout=compact&hide_border=true&theme=)](https://github.com/caroldaniel?tab=repositories)
 
 <p align="center">
     <img alt="caroldaniel's stars" src="https://img.shields.io/github/stars/caroldaniel?color=blueviolet" />
