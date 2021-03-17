@@ -20,10 +20,10 @@ My current goal is to learn all I can about Techlonogy and Computer Science :com
 
 #### :wrench: Tools and Technologies
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
+![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
 
 #### :computer: Social Media
 
@@ -45,8 +45,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [![caroldaniel's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldaniel&layout=compact&hide_border=true&theme=jolly)](https://github.com/caroldaniel?tab=repositories)
 
 <p align="center">
-	<img alt="caroldaniel's stars" src="https://img.shields.io/github/stars/caroldaniel?color=blueviolet" />
-  <img alt="caroldaniel's followers" src="https://img.shields.io/github/followers/caroldaniel?color=blueviolet" />
-  <img alt="caroldaniel's visitors" src="https://komarev.com/ghpvc/?username=caroldaniel&color=8c36db&style=flat&label=visitors" />	
+    <img alt="caroldaniel's stars" src="https://img.shields.io/github/stars/caroldaniel?color=blueviolet" />
+    <img alt="caroldaniel's followers" src="https://img.shields.io/github/followers/caroldaniel?color=blueviolet" />
+    <img alt="caroldaniel's visitors" src="https://komarev.com/ghpvc/?username=caroldaniel&color=8c36db&style=flat&label=visitors" />	
 	
 </p>
