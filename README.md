@@ -1,31 +1,38 @@
-### Hello everyone! 👋
-#
-#### Welcome to my profile! :purple_heart:
+### 👋&emsp;Hello world!
 
-I'm a curious soul, always looking for new and more exciting adventures! 
-I'm a multitasked and very active individual. An Architect :triangular_ruler: and Urban Planner gratuated :mortar_board: by University of São Paulo; an actress and movie lover :movie_camera:; an English teacher in the spare time, avid to learn and even more avid to teach :pencil2:. 
+##
 
+#### :purple_heart:&emsp; Welcome to my profile!
+
+I'm a curious soul, always looking for new and more exciting adventures! <br>
+I'm a multitasked and very active individual. <br>
+:triangular_ruler: &emsp; Architect and Urban Planner <br>
+:mortar_board: &emsp; Graduated by University of São Paulo; <br>
+:movie_camera: &emsp; Actress and movie lover; <br>
+🧑‍🏫 &emsp; English Teacher in the spare time, <br>
+:pencil2: &emsp; Avid to learn and even more avid to teach.  <br>
+ <br>
 My current goal is to learn all I can about Techlonogy and Computer Science :computer:, in order to enhance my professional and personal habilities. The sky is the limit, and even THAT couldn't hold me back!
 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a mom and was definitely born to be one - having my daughter :baby: thought me things about life and myself that not even 10.000 degrees would be able to. 
-- 💬 Ask me about anything regarding motherhood, politics and/or movies. Even if I don't know it, I'll talk about it. Let's learn together! :wink:
--  :earth_americas: Travelling and languages are my passion
--  :paw_prints: 9 cats and 1 dog
--  :ok_woman: Yoga
--  :swimmer: Swimming
--  :video_game: Videogames
+- 😄 &emsp; Pronouns: she/her
+- ⚡ &emsp; Fun fact: I'm a mom and was definitely born to be one - having my daughter :baby: thought me things about life and myself that not even 10.000 degrees would be able to. 
+- 💬 &emsp; Ask me about anything regarding motherhood, politics and/or movies. Even if I don't know it, I'll talk about it. Let's learn together! :wink:
+-  :earth_americas: &emsp; Travelling and languages are my passion
+-  :paw_prints: &emsp; 9 cats and 1 dog
+-  :ok_woman: &emsp; Yoga
+-  :swimmer: &emsp; Swimming
+-  :video_game: &emsp; Videogames
 
--  :couple_with_heart: Married to @HCastanha
+-  :couple_with_heart: &emsp; Married to @HCastanha
 
-#### :wrench: Tools and Technologies
+#### :wrench: &emsp; Tools and Technologies
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
 
-#### :computer: Social Media
+#### :computer: &emsp; Social Media
 
 You can find me on [![Twitter][1.2]][1]
 
@@ -37,7 +44,7 @@ You can find me on [![Twitter][1.2]][1]
 
 [1]: https://twitter.com/caroldaniel
 
-#### :chart_with_upwards_trend: Stats
+#### :chart_with_upwards_trend: &emsp; Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=caroldaniel&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=)](https://github.com/caroldaniel?tab=repositories) 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldaniel&layout=compact&hide_border=true&theme=)](https://github.com/caroldaniel?tab=repositories)
