@@ -9,7 +9,7 @@ I'm a multitasked and very active individual. <br>
 :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
 :mortar_board: 	&emsp; Graduated by University of São Paulo; <br>
 :movie_camera: 	&emsp; Actress and movie lover; <br>
-🧑‍🏫 &emsp; English Teacher in the spare time, <br>
+🏫 &emsp; English Teacher in the spare time, <br>
 :pencil2: 	&emsp; Avid to learn and even more avid to teach.  <br>
  <br>
 My current goal is to learn all I can about Techlonogy and Computer Science :computer:, in order to enhance my professional and personal habilities. The sky is the limit, and even THAT couldn't hold me back!
