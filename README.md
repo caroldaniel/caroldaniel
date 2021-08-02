@@ -27,13 +27,12 @@ My current goal is to learn all I can about Techlonogy and Computer Science :com
 
 #### :wrench: &emsp; Tools and Technologies
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet?style=for-the-badge&logo=appveyor)
 
 #### :computer: &emsp; Social Media
 
