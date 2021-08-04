@@ -4,23 +4,21 @@
 
 #### :purple_heart:&emsp; Welcome to my profile!
 
-I'm a curious soul, always looking for new and more exciting adventures! <br>
-I'm a multitasked and very active individual. <br>
+:movie_camera: 	&emsp; Actress and movie lover <br>
+🏫 &emsp; English Teacher <br>
 :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
-:mortar_board: 	&emsp; Graduated by University of São Paulo; <br>
-:movie_camera: 	&emsp; Actress and movie lover; <br>
-🏫 &emsp; English Teacher in the spare time, <br>
+
+:mortar_board: 	&emsp; Graduated by University of São Paulo <br>
+:mortar_board: 	&emsp; Cadet at @42sp ecole <br>
+
 :pencil2: 	&emsp; Avid to learn and even more avid to teach.  <br>
- <br>
-My current goal is to learn all I can about Techlonogy and Computer Science :computer:, in order to enhance my professional and personal habilities. The sky is the limit, and even THAT couldn't hold me back!
 
 - 😄 &emsp; Pronouns: she/her
-- ⚡ &emsp; Fun fact: I'm a mom and was definitely born to be one - having my daughter :baby: thought me things about life and myself that not even 10.000 degrees would be able to. 
-- 💬 &emsp; Ask me about anything regarding motherhood, politics and/or movies. Even if I don't know it, I'll talk about it. Let's learn together! :wink:
--  :earth_americas: &emsp; Travelling and languages are my passion
--  :paw_prints: &emsp; 9 cats and 1 dog
+- ⚡ &emsp; Fun fact: I'm a mom and spending time with my daughter is my favourite hobby
+-  :paw_prints: &emsp; I live with 9 cats and 1 dog
 -  :ok_woman: &emsp; Yoga
 -  :swimmer: &emsp; Swimming
+-  :weight_lifting: &emsp; Strength workout
 -  :video_game: &emsp; Videogames
 
 -  :couple_with_heart: &emsp; Married to [@HCastanha](https://github.com/HCastanha)
