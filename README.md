@@ -1,8 +1,8 @@
-### 👋&emsp;Hello world!
+## 👋&emsp;Hello world!
 
 ##
 
-#### :purple_heart:&emsp; Welcome to my profile!
+### :purple_heart:&emsp; Welcome to my profile!
 
 - :movie_camera: 	&emsp; Actress and movie lover <br>
 - 🏫 &emsp; English Teacher <br>
@@ -11,17 +11,20 @@
 - :mortar_board: 	&emsp; Graduated by University of São Paulo <br>
 - :mortar_board: 	&emsp; Cadet at @42sp ecole <br>
 
+#### Fun facts
 - 😄 &emsp; Pronouns: she/her
-- ⚡ &emsp; Fun fact: I'm a mom and spending time with my daughter is my favourite hobby
--  :paw_prints: &emsp; I live with 9 cats and 1 dog
+- :couple_with_heart: &emsp; Married to [@HCastanha](https://github.com/HCastanha)
+- :girl: &emsp; Olivia's mom
+- :paw_prints: &emsp; I live with 9 cats and 1 dog
+
+#### Likes
+-  :chopsticks: &emsp; Sushi lover
 -  :ok_woman: &emsp; Yoga
 -  :swimmer: &emsp; Swimming
 -  :weight_lifting: &emsp; Strength workout
 -  :video_game: &emsp; Videogames
 
--  :couple_with_heart: &emsp; Married to [@HCastanha](https://github.com/HCastanha)
-
-#### :computer: &emsp; Social Media
+### :computer: &emsp; Social Media
 
 You can find me on [![Twitter][1.2]][1]
 
