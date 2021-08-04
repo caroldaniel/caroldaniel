@@ -51,4 +51,4 @@ You can find me on [![Twitter][1.2]][1]
 
 ## 42cursus syllabus
 
-- [libft](~/42sp-cursus_libft/) - my first C library
+- [libft](../42sp-cursus_libft/) - my first C library
