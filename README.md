@@ -4,14 +4,12 @@
 
 #### :purple_heart:&emsp; Welcome to my profile!
 
-:movie_camera: 	&emsp; Actress and movie lover <br>
-🏫 &emsp; English Teacher <br>
-:triangular_ruler: 	&emsp; Architect and Urban Planner <br>
+- :movie_camera: 	&emsp; Actress and movie lover <br>
+- 🏫 &emsp; English Teacher <br>
+- :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
 
-:mortar_board: 	&emsp; Graduated by University of São Paulo <br>
-:mortar_board: 	&emsp; Cadet at @42sp ecole <br>
-
-:pencil2: 	&emsp; Avid to learn and even more avid to teach.  <br>
+- :mortar_board: 	&emsp; Graduated by University of São Paulo <br>
+- :mortar_board: 	&emsp; Cadet at @42sp ecole <br>
 
 - 😄 &emsp; Pronouns: she/her
 - ⚡ &emsp; Fun fact: I'm a mom and spending time with my daughter is my favourite hobby
