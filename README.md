@@ -46,3 +46,9 @@ You can find me on [![Twitter][1.2]][1]
     <img alt="caroldaniel's visitors" src="https://komarev.com/ghpvc/?username=caroldaniel&color=blue&style=flat&label=visitors" />	
 	
 </p>
+
+---
+
+## 42cursus syllabus
+
+- [libft](42sp-cursus_libft) - my first C library
