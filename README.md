@@ -1,6 +1,6 @@
 ## 👋&emsp;Hello world!
 
-##
+---
 
 ### :purple_heart:&emsp; Welcome to my profile!
 
