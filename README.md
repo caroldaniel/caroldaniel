@@ -1,8 +1,7 @@
 ## 👋&emsp;Hello world!
+### :purple_heart:&emsp; Welcome to my profile!
 
 ---
-
-### :purple_heart:&emsp; Welcome to my profile!
 
 - :movie_camera: 	&emsp; Actress and movie lover <br>
 - 🏫 &emsp; English Teacher <br>
