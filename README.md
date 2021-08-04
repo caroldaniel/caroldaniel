@@ -23,11 +23,7 @@ My current goal is to learn all I can about Techlonogy and Computer Science :com
 -  :swimmer: &emsp; Swimming
 -  :video_game: &emsp; Videogames
 
--  :couple_with_heart: &emsp; Married to @HCastanha
-
-#### :wrench: &emsp; 42 cursus
-
-<p align="center"><img src="https://badge42.herokuapp.com/api/stats/cado-car-?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
+-  :couple_with_heart: &emsp; Married to [@HCastanha](https://github.com/HCastanha)
 
 #### :computer: &emsp; Social Media
 
