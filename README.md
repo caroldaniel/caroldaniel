@@ -25,14 +25,9 @@ My current goal is to learn all I can about Techlonogy and Computer Science :com
 
 -  :couple_with_heart: &emsp; Married to @HCastanha
 
-#### :wrench: &emsp; Tools and Technologies
+#### :wrench: &emsp; 42 cursus
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=blueviolet)
+<p align="center"><img src="https://badge42.herokuapp.com/api/stats/cado-car-?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
 
 #### :computer: &emsp; Social Media
 
