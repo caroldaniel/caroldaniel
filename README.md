@@ -50,5 +50,5 @@ You can find me on [![Twitter][1.2]][1]
 ---
 
 ## 42cursus syllabus
-
+- [basecamp](https://github.com/caroldaniel/42sp-piscine_Basecamp-june2021/) - codes for Shell and from C libraries
 - [libft](https://github.com/caroldaniel/42sp-cursus_libft/) - my first C library
