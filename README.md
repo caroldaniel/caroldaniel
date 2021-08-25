@@ -25,15 +25,21 @@
 
 ### :computer: &emsp; Social Media
 
-You can find me on [![Twitter][1.2]][1]
+You can find me on [![LinkedIn][4.1]][4.2][![Instagram][2.1]][2.2][![Facebook][3.1]][3.2][![Twitter][1.1]][1.2]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/twitter.png
+[2.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/Instagram.png
+[3.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/facebook.png
+[4.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/linkedin.png
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/caroldaniel
+[1.2]: https://twitter.com/caroldaniel/
+[2.2]: https://www.instagram.com/arq.carolinadaniel/
+[3.2]: https://www.facebook.com/carolina.daniel/
+[4.2]: https://www.linkedin.com/in/carolinadaniel/
 
 #### :chart_with_upwards_trend: &emsp; Stats
 
