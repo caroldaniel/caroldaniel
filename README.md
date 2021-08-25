@@ -29,10 +29,10 @@ You can find me on [![LinkedIn][4.1]][4.2][![Instagram][2.1]][2.2][![Facebook][3
 
 <!-- Icons -->
 
-[1.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/twitter.png
-[2.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/Instagram.png
-[3.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/791232c7167fa19798de4160d22a9d7e30a0e983/facebook_scale.xcf
-[4.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/linkedin.png
+[1.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/twitter_icon.png
+[2.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/Instagram_icon.png
+[3.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/facebook_icon.png
+[4.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/linkedin_scale.png
 
 <!-- Links to your social media accounts -->
 
