@@ -25,7 +25,7 @@
 
 ### :computer: &emsp; Social Media
 
-You can find me on [![LinkedIn][4.1]][4.2][![Instagram][2.1]][2.2][![Facebook][3.1]][3.2][![Twitter][1.1]][1.2]
+[![LinkedIn][4.1]][4.2]		[![Instagram][2.1]][2.2]		[![Facebook][3.1]][3.2]		[![Twitter][1.1]][1.2]
 
 <!-- Icons -->
 
