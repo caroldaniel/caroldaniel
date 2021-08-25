@@ -31,7 +31,7 @@ You can find me on [![LinkedIn][4.1]][4.2][![Instagram][2.1]][2.2][![Facebook][3
 
 [1.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/twitter.png
 [2.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/Instagram.png
-[3.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/facebook.png
+[3.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/791232c7167fa19798de4160d22a9d7e30a0e983/facebook_scale.xcf
 [4.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/077af737c10f86476641022345d3e50e5b52e3dc/linkedin.png
 
 <!-- Links to your social media accounts -->
