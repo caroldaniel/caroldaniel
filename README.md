@@ -8,7 +8,8 @@
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
 
 - :mortar_board: 	&emsp; Graduated by University of São Paulo <br>
-- :mortar_board: 	&emsp; Cadet at @42sp ecole <br>
+- :mortar_board: 	&emsp; Cadet @ 42SP <br>
+- :mortar_board: 	&emsp; Web Full Stack student @ Let's Code <br>
 
 #### Fun facts
 - 😄 &emsp; Pronouns: she/her
