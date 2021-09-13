@@ -26,20 +26,15 @@
 
 ### :computer: &emsp; Social Media
 
-[![LinkedIn][4.1]][4.2]		[![Instagram][2.1]][2.2]		[![Facebook][3.1]][3.2]		[![Twitter][1.1]][1.2]
-
+[![LinkedIn][4.1]][4.2]		[![Instagram][2.1]][2.2]
 <!-- Icons -->
 
-[1.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/twitter_icon.png
 [2.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/Instagram_icon.png
-[3.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/facebook_icon.png
 [4.1]: https://github.com/caroldaniel/caroldaniel-utils/blob/afac2b0137c737baad6cd09c10d534f250c6b862/linkedin_scale.png
 
 <!-- Links to your social media accounts -->
 
-[1.2]: https://twitter.com/caroldaniel/
 [2.2]: https://www.instagram.com/arq.carolinadaniel/
-[3.2]: https://www.facebook.com/carolina.daniel/
 [4.2]: https://www.linkedin.com/in/carolinadaniel/
 
 #### :chart_with_upwards_trend: &emsp; Stats
