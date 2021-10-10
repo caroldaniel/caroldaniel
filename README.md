@@ -58,3 +58,8 @@
 - [ft_printf](https://github.com/caroldaniel/42sp-cursus-printf/) - my printf function implementation
 - [born2beroot](https://github.com/caroldaniel/42sp-cursus-born2beroot) - my implementation of a Linux Server
 - [fdf](https://github.com/caroldaniel/42sp-cursus-fdf) - a wireframe viewer for 3D maps
+
+## Let's Code [SantanderCodersWeb] syllabus
+- [Module #1](https://github.com/caroldaniel/LetsCode-WebProgramming-Module1) - static front-end
+- [Module #2](https://github.com/caroldaniel/LetsCode-WebProgramming-Module2) - javascript
+
