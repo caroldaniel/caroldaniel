@@ -65,4 +65,5 @@
 ## Let's Code [SantanderCodersWeb] syllabus
 - [Module #1](https://github.com/caroldaniel/LetsCode-WebProgramming-Module1) - static front-end
 - [Module #2](https://github.com/caroldaniel/LetsCode-WebProgramming-Module2) - javascript
+- [Module #3](https://github.com/caroldaniel/LetsCode-WebProgramming-Module3) - classes 
 
