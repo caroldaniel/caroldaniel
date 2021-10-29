@@ -13,7 +13,6 @@
 
 #### Fun facts
 - 😄 &emsp; Pronouns: she/her
-- :couple_with_heart: &emsp; Married to [@HCastanha](https://github.com/HCastanha)
 - :girl: &emsp; Olivia's mom
 - :paw_prints: &emsp; I live with 9 cats and 1 dog
 
