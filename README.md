@@ -8,9 +8,9 @@
 - 💻	&emsp; Web Full Stack & Data Science Student @ Let's Code <br>
 
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
+- :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
 - :movie_camera: 	&emsp; Actress and movie lover <br>
 - 🏫 &emsp; English Teacher <br>
-- :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
 
 
 #### Fun facts
