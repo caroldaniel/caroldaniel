@@ -55,7 +55,7 @@
 ## 42cursus syllabus
 - [basecamp](https://github.com/caroldaniel/42sp-piscine_Basecamp-june2021/) - codes for Shell and from C libraries
 
-### Fase 1:
+### Phase 1:
 - [libft](https://github.com/caroldaniel/42sp-cursus_libft/) - my first C library
 - [get_next_line](https://github.com/caroldaniel/42sp-cursus-get_next_line/) - my get_next_line function implementation
 - [ft_printf](https://github.com/caroldaniel/42sp-cursus-printf/) - my printf function implementation
