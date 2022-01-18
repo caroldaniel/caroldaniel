@@ -56,7 +56,7 @@
 - [basecamp](https://github.com/caroldaniel/42sp-piscine_Basecamp-june2021/) - codes for Shell and from C libraries
 
 ### Phase 1:
-<img alt="42 Phase One" src="https://github.com/caroldaniel/caroldaniel-utils/blob/4623c06283fc7ef27991e8bb758230904e774942/phase_onee.png" />
+<img alt="42 Phase One" src="https://github.com/caroldaniel/caroldaniel-utils/blob/694d4e6dd88e52b73b5c00dcd52bbe9ae2bec48f/phase_onem.png" />
 
 - [libft](https://github.com/caroldaniel/42sp-cursus_libft/) - my first C library
 - [get_next_line](https://github.com/caroldaniel/42sp-cursus-get_next_line/) - my get_next_line function implementation
