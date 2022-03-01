@@ -73,3 +73,4 @@
 - [Module #3](https://github.com/caroldaniel/LetsCode-WebProgramming-Module3) - classes 
 - [Module #4](https://github.com/caroldaniel/LetsCode-WebProgramming-Module4) - vanilla js website implementation
 - [Module #5](https://github.com/caroldaniel/LetsCode-WebProgramming-Module5) - angular implementation of a website
+- [Module #8](https://github.com/caroldaniel/LetsCode-WebProgramming-Module8) - back-end with spring
