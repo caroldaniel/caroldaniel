@@ -75,3 +75,6 @@
 - [Module #5](https://github.com/caroldaniel/LetsCode-WebProgramming-Module5) - angular implementation of a website
 - [Module #6](https://github.com/caroldaniel/LetsCode-WebProgramming-Module6) - java
 - [Module #8](https://github.com/caroldaniel/LetsCode-WebProgramming-Module8) - back-end with spring
+
+## Let's Code [BootcampDadosItau] syllabus
+- [Final Project](https://github.com/caroldaniel/LetsCode-BootcampDados-ProjetoFinal) - Data Engineering and Data Science final project
