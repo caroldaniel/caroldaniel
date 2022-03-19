@@ -67,6 +67,8 @@
 
 ### Phase 2:
 
+- [push_swap](https://github.com/caroldaniel/42sp-cursus-push_swap/) - my implementation of a sorting algorithm to solve a two-stack problem
+
 ## Let's Code [SantanderCodersWeb] syllabus
 - [Module #1](https://github.com/caroldaniel/LetsCode-WebProgramming-Module1) - static front-end
 - [Module #2](https://github.com/caroldaniel/LetsCode-WebProgramming-Module2) - javascript
