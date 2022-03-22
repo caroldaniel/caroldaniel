@@ -5,8 +5,7 @@
 
 - 📈	&emsp; Data Engineer @ Itaú Unibanco <br>
 - 💻	&emsp; Cadet @ 42SP <br>
-- 💻	&emsp; Freelance Full Stack Developer <br>
-- 💻	&emsp; Data Science student <br>
+- 💻	&emsp; Front End Developer | React.js <br>
 
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
