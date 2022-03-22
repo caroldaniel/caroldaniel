@@ -5,7 +5,8 @@
 
 - 📈	&emsp; Data Engineer @ Itaú Unibanco <br>
 - 💻	&emsp; Cadet @ 42SP <br>
-- 💻	&emsp; Web Full Stack & Data Science Student @ Let's Code <br>
+- 💻	&emsp; Freelance Full Stack Developer <br>
+- 💻	&emsp; Data Science student <br>
 
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
