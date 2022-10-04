@@ -17,7 +17,7 @@
 - 😄 &emsp; Pronouns: she/her
 - :girl: &emsp; Olivia's mom
 - :ring: &emsp; Married to [this](https://github.com/HCastanha) hunk
-- :paw_prints: &emsp; I live with 9 cats :cat: and 1 dog :dog:
+- :paw_prints: &emsp; I live with 6 cats :cat: and 1 dog :dog:
 
 #### Likes
 -  :chopsticks: &emsp; Sushi lover
