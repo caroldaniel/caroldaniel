@@ -70,6 +70,8 @@
 
 - [push_swap](https://github.com/caroldaniel/42sp-cursus-push_swap/) - my implementation of a sorting algorithm to solve a two-stack problem
 - [minishell](https://github.com/caroldaniel/42sp-cursus-minishell/) - as beautiful as a shell
+- [philosophers](https://github.com/caroldaniel/42sp-cursus-philosophers/) - I never thought philosophy would be so deadly
+
 
 ## Let's Code [SantanderCodersWeb] syllabus
 - [Module #1](https://github.com/caroldaniel/LetsCode-WebProgramming-Module1) - static front-end
