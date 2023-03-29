@@ -41,9 +41,6 @@
 
 #### :chart_with_upwards_trend: &emsp; Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=caroldaniel&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=)](https://github.com/caroldaniel?tab=repositories) 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldaniel&layout=compact&hide_border=true&theme=)](https://github.com/caroldaniel?tab=repositories)
-
 <p align="center">
     <img alt="caroldaniel's stars" src="https://img.shields.io/github/stars/caroldaniel?color=blue" />
     <img alt="caroldaniel's followers" src="https://img.shields.io/github/followers/caroldaniel?color=blue" />
