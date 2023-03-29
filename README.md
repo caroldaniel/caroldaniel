@@ -41,11 +41,10 @@
 
 #### :chart_with_upwards_trend: &emsp; Stats
 
-<p align="center">
+<p align="left">
     <img alt="caroldaniel's stars" src="https://img.shields.io/github/stars/caroldaniel?color=blue" />
     <img alt="caroldaniel's followers" src="https://img.shields.io/github/followers/caroldaniel?color=blue" />
-    <img alt="caroldaniel's visitors" src="https://komarev.com/ghpvc/?username=caroldaniel&color=blue&style=flat&label=visitors" />	
-	
+    <img alt="caroldaniel's visitors" src="https://komarev.com/ghpvc/?username=caroldaniel&color=blue&style=flat&label=visitors" />		
 </p>
 
 ---
