@@ -39,7 +39,7 @@
 [2.2]: https://www.instagram.com/arq.carolinadaniel/
 [4.2]: https://www.linkedin.com/in/carolinadaniel/
 
-#### :chart_with_upwards_trend: &emsp; Stats
+### :chart_with_upwards_trend: &emsp; Stats
 
 <p align="left">
     <img alt="caroldaniel's stars" src="https://img.shields.io/github/stars/caroldaniel?color=blue" />
