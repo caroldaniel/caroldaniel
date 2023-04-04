@@ -3,7 +3,7 @@
 
 ---
 
-- 📈	&emsp; Data Engineer @ Itaú Unibanco <br>
+- 📈	&emsp; Data & Analytics Platform Engineer @ Itaú Unibanco <br>
 - 💻	&emsp; Cadet @ 42SP <br>
 - 💻	&emsp; Front End Developer | React.js <br>
 
