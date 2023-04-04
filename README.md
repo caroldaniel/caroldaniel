@@ -67,6 +67,7 @@
 - [push_swap](https://github.com/caroldaniel/42sp-cursus-push_swap/) - my implementation of a sorting algorithm to solve a two-stack problem
 - [minishell](https://github.com/caroldaniel/42sp-cursus-minishell/) - as beautiful as a shell
 - [philosophers](https://github.com/caroldaniel/42sp-cursus-philosophers/) - I never thought philosophy would be so deadly
+- [philosophers](https://github.com/caroldaniel/42sp-cursus-netpractice/) - A guide to networking concepts
 
 
 ## Let's Code [SantanderCodersWeb] syllabus
