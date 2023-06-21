@@ -5,7 +5,7 @@
 
 - 📈	&emsp; Data & Analytics Platform Engineer @ Itaú Unibanco <br>
 - 💻	&emsp; Cadet @ 42SP <br>
-- 💻	&emsp; Front End Developer | React.js <br>
+- 💻	&emsp; Full Stack Developer Freelancer <br>
 
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
@@ -17,13 +17,13 @@
 - 😄 &emsp; Pronouns: she/her
 - :girl: &emsp; Olivia's mom
 - :ring: &emsp; Married to [this](https://github.com/HCastanha) hunk
-- :paw_prints: &emsp; I live with 9 cats :cat: and 1 dog :dog:
+- :paw_prints: &emsp; I live with a bunch of cats :cat: and 2 crazy dogs :dog::dog:
 
 #### Likes
 -  :chopsticks: &emsp; Sushi lover
--  :ok_woman: &emsp; Yoga
+-  :ok_woman: &emsp; Pilates
 -  :swimmer: &emsp; Swimming
--  :weight_lifting: &emsp; Strength workout
+-  :runner: &emsp; Running
 -  :video_game: &emsp; Videogames
 
 ### :computer: &emsp; Social Media
