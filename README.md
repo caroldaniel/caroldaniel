@@ -63,6 +63,7 @@
 - [pipex](https://github.com/caroldaniel/42sp-cursus-pipex/) - a shell pipe executable
 
 ### Phase 2:
+<img alt="42 Phase Two" src="https://github.com/caroldaniel/caroldaniel-utils/blob/63859a8af20594cfa8067140b22c09723094ff23/phase_twoe.png" />
 
 - [push_swap](https://github.com/caroldaniel/42sp-cursus-push_swap/) - my implementation of a sorting algorithm to solve a two-stack problem
 - [minishell](https://github.com/caroldaniel/42sp-cursus-minishell/) - as beautiful as a shell
@@ -70,7 +71,9 @@
 - [net_practice](https://github.com/caroldaniel/42sp-cursus-netpractice/) - a guide to networking concepts
 - [miniRT](https://github.com/caroldaniel/42sp-cursus-minirt/) - my frist ray tracer
 
-
+### Phase 3:
+- [CPP](https://github.com/caroldaniel/42sp-cursus-cpp/) - the C++ mini piscine
+  
 ## Let's Code [SantanderCodersWeb] syllabus
 - [Module #1](https://github.com/caroldaniel/LetsCode-WebProgramming-Module1) - static front-end
 - [Module #2](https://github.com/caroldaniel/LetsCode-WebProgramming-Module2) - javascript
