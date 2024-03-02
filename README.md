@@ -74,7 +74,7 @@
 ### Phase 3:
 - [CPP](https://github.com/caroldaniel/42sp-cursus-cpp/) - the C++ mini piscine
 - [Inception](https://github.com/caroldaniel/42sp-cursus-inception/) - one container is not enough
-  [ft_irc](https://github.com/caroldaniel/42sp-cursus-ft_irc/) - An Internet Relay Chat server developed in C++
+- [ft_irc](https://github.com/caroldaniel/42sp-cursus-ft_irc/) - An Internet Relay Chat server developed in C++
   
 ## Let's Code [SantanderCodersWeb] syllabus
 - [Module #1](https://github.com/caroldaniel/LetsCode-WebProgramming-Module1) - static front-end
