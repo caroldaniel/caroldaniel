@@ -3,6 +3,7 @@
 
 ---
 
+- :clipboard:	&emsp; AWS Certified <br>
 - 📈	&emsp; Data & Analytics Platform Engineer @ Itaú Unibanco <br>
 - 💻	&emsp; Cadet @ 42SP <br>
 - 💻	&emsp; Full Stack Developer Freelancer <br>
@@ -16,6 +17,7 @@
 #### Fun facts
 - 😄 &emsp; Pronouns: she/her
 - :girl: &emsp; Olivia's mom
+- :baby: &emsp; Baby Ben on the way
 - :ring: &emsp; Married to [this](https://github.com/HCastanha) hunk
 - :paw_prints: &emsp; I live with a bunch of cats :cat: and 2 crazy dogs :dog::dog:
 
