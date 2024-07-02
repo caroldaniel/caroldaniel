@@ -3,10 +3,10 @@
 
 ---
 
-- :clipboard:	&emsp; AWS Certified <br>
 - 📈	&emsp; Data & Analytics Platform Engineer @ Itaú Unibanco <br>
 - 💻	&emsp; Cadet @ 42SP <br>
 - 💻	&emsp; Full Stack Developer Freelancer <br>
+- :clipboard:	&emsp; AWS Certified <br>
 
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
