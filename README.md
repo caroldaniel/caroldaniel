@@ -16,8 +16,8 @@
 
 #### Fun facts
 - 😄 &emsp; Pronouns: she/her
-- :girl::baby: &emsp; Olivia and Benjamin's mom
-- :baby: &emsp; Baby Ben on the way
+- :girl: &emsp; Olivia's mom
+- :baby: &emsp; Benjamin's mom
 - :ring: &emsp; Married to [this](https://github.com/HCastanha) hunk
 - :paw_prints: &emsp; I live with a bunch of cats :cat: and 2 crazy dogs :dog::dog:
 
