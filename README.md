@@ -3,10 +3,11 @@
 
 ---
 
-- 📈	&emsp; Data & Analytics Platform Engineer @ Itaú Unibanco <br>
-- 💻	&emsp; Cadet @ 42SP <br>
-- 💻	&emsp; Full Stack Developer Freelancer <br>
-- :clipboard:	&emsp; AWS Certified <br>
+- 📈	Data & Analytics Platform Engineer @ Itaú Unibanco <br>
+- 💻	Human Coder and Cadet @ 42 São Paulo - currently pursuing Data & AI RNCP7 specialization <br>
+- 💻	MBA in Data Science and Analytics @ USP Esalq
+- 💻	Full Stack Developer Freelancer <br>
+- :clipboard:	AWS Certified <br>
 
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
@@ -51,6 +52,8 @@
 
 ---
 
+<img alt="Human Coder" src="https://github.com/caroldaniel/caroldaniel-utils/blob/694d4e6dd88e52b73b5c00dcd52bbe9ae2bec48f/phase_onem.png" />
+
 ## 42cursus syllabus
 - [basecamp](https://github.com/caroldaniel/42sp-piscine_Basecamp-june2021/) - codes for Shell and from C libraries
 
@@ -74,18 +77,9 @@
 - [miniRT](https://github.com/caroldaniel/42sp-cursus-minirt/) - my frist ray tracer
 
 ### Phase 3:
+<img alt="42 Phase Three" src="https://github.com/caroldaniel/caroldaniel-utils/blob/63859a8af20594cfa8067140b22c09723094ff23/phase_twoe.png" />
+
 - [CPP](https://github.com/caroldaniel/42sp-cursus-cpp/) - the C++ mini piscine
 - [Inception](https://github.com/caroldaniel/42sp-cursus-inception/) - one container is not enough
 - [ft_irc](https://github.com/caroldaniel/42sp-cursus-ft_irc/) - An Internet Relay Chat server developed in C++
-  
-## Let's Code [SantanderCodersWeb] syllabus
-- [Module #1](https://github.com/caroldaniel/LetsCode-WebProgramming-Module1) - static front-end
-- [Module #2](https://github.com/caroldaniel/LetsCode-WebProgramming-Module2) - javascript
-- [Module #3](https://github.com/caroldaniel/LetsCode-WebProgramming-Module3) - classes 
-- [Module #4](https://github.com/caroldaniel/LetsCode-WebProgramming-Module4) - vanilla js website implementation
-- [Module #5](https://github.com/caroldaniel/LetsCode-WebProgramming-Module5) - angular implementation of a website
-- [Module #6](https://github.com/caroldaniel/LetsCode-WebProgramming-Module6) - java
-- [Module #8](https://github.com/caroldaniel/LetsCode-WebProgramming-Module8) - back-end with spring
-
-## Let's Code [BootcampDadosItau] syllabus
-- [Final Project](https://github.com/caroldaniel/LetsCode-BootcampDados-ProjetoFinal) - Data Engineering and Data Science final project
+- [ft_transcendence](https://github.com/caroldaniel/42sp-cursus-ft_transcendence/) - Surprise
