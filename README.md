@@ -79,7 +79,7 @@
 - [miniRT](https://github.com/caroldaniel/42sp-cursus-minirt/) - my frist ray tracer
 
 ### Phase 3:
-<img alt="42 Phase Three" src="https://github.com/caroldaniel/caroldaniel-utils/blob/63859a8af20594cfa8067140b22c09723094ff23/phase_twoe.png" />
+<img alt="42 Phase Three" src="https://github.com/caroldaniel/caroldaniel-utils/blob/40915cb92b2edc1c3aafe46059398ac60b0d8b3c/phase_threem.png" />
 
 - [CPP](https://github.com/caroldaniel/42sp-cursus-cpp/) - the C++ mini piscine
 - [Inception](https://github.com/caroldaniel/42sp-cursus-inception/) - one container is not enough
