@@ -54,7 +54,7 @@
 
 ---
 
-<img alt="Human Coder" src="https://github.com/caroldaniel/caroldaniel-utils/blob/694d4e6dd88e52b73b5c00dcd52bbe9ae2bec48f/phase_onem.png" />
+<img alt="Human Coder" src="https://github.com/caroldaniel/caroldaniel-utils/blob/40915cb92b2edc1c3aafe46059398ac60b0d8b3c/common_coree.png" />
 
 ## 42cursus syllabus
 - [basecamp](https://github.com/caroldaniel/42sp-piscine_Basecamp-june2021/) - codes for Shell and from C libraries
