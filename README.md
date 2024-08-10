@@ -9,6 +9,8 @@
 - 💻	&emsp; Full Stack Developer Freelancer <br>
 - :clipboard:	&emsp; AWS Certified <br>
 
+
+#### Background
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
 - :movie_camera: 	&emsp; Actress and movie lover <br>
