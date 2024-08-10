@@ -3,11 +3,11 @@
 
 ---
 
-- 📈	Data & Analytics Platform Engineer @ Itaú Unibanco <br>
-- 💻	Human Coder and Cadet @ 42 São Paulo - currently pursuing Data & AI RNCP7 specialization <br>
-- 💻	MBA in Data Science and Analytics @ USP Esalq
-- 💻	Full Stack Developer Freelancer <br>
-- :clipboard:	AWS Certified <br>
+- 📈	&emsp; Data & Analytics Platform Engineer @ Itaú Unibanco <br>
+- 💻	&emsp; Human Coder and Cadet @ 42 São Paulo - currently pursuing Data & AI RNCP7 specialization <br>
+- 💻	&emsp; MBA in Data Science and Analytics @ USP Esalq
+- 💻	&emsp; Full Stack Developer Freelancer <br>
+- :clipboard:	&emsp; AWS Certified <br>
 
 - 👩‍🎓	&emsp; Graduated by University of São Paulo <br>
 - :triangular_ruler: 	&emsp; Architect and Urban Planner <br>
